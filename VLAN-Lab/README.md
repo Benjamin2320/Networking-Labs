@@ -4,7 +4,7 @@
 
 ## Overview
 This lab demonstrates the configuration of VLANs, trunking, native VLANs, and testing connectivity using Cisco Packet Tracer.
-VLANs are useful because they let you split a network into smaller, virtual sections that act like subnets. This way, devices can communicate with each other as if they were on the same network, even if they’re physically spread out. It helps control layer 2 traffic and improves both security and efficiency.
+VLANs are useful because they let you split a network into smaller, virtual sections that act like subnets. This way, devices can communicate with each other as if they were on the same network, even if they’re physically spread out. This helps control layer 2 traffic and improves both security and efficiency.
 
 ## Objectives
 - Create VLANs and assign switch ports
